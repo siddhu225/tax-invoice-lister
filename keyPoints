@@ -1,0 +1,5 @@
+lesson 2:
+  browers cant understand ts so we should complile ts to js to understand.
+  that can be done by  running the command tsc 'file Name' which it will create a 'fileName'.js File.
+  It will compile into older js code.
+
